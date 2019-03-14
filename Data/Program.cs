@@ -7,6 +7,8 @@ namespace Data
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testando git - alterações");
+            Console.WriteLine("Vou cancelar isso");
 
             DateTime d2 = new DateTime(1977,02,05);
             DateTime d3 = new DateTime(1977,02,05,14,55,32);
